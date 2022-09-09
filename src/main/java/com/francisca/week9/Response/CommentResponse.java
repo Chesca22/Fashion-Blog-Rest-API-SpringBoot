@@ -18,7 +18,7 @@ import java.time.LocalDateTime;
 public class CommentResponse {
     private String message;
     private LocalDateTime timeStamp;
-    private Comment commment;
+    private Comment comment;
     private Post post;
 
 }
