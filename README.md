@@ -1,6 +1,6 @@
 Fashion Blog (API)
 
-Dele is a fashion designer who needs an online platform in the form of a blog where he can post his various categories of designs, and get feedback and thoughts from his customers and blog visitors via comments and likes. You are to build Restful APIs which would be consumed by a client application.
+A fashion designer who needs an online platform in the form of a blog where he can post his various categories of designs, and get feedback and thoughts from his customers and blog visitors via comments and likes. You are to build Restful APIs which would be consumed by a client application.
 
 Tools
 
@@ -38,7 +38,7 @@ Expectations
 
 · Add timestamp to your tables where necessary
 
-Assessment Criteria
+Criteria
 
 1. Codebase is fully tested.
 
